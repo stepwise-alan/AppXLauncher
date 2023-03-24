@@ -17,4 +17,3 @@
 > 
 > 当 `Persistent` 开启时，在首次运行 `AppXLauncher.exe` 之后，你可以直接在开始菜单中打开 Telegram，不需要再打开 `AppXLauncher.exe`。
 > 注意上述文件不能移动或删除。如果你移动了之后打不开 Telegram，或者想卸载，把 `Persistent` 改为 `false` 后运行一次 `AppXLauncher.exe` 即可。
-
